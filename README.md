@@ -1,3 +1,5 @@
+# Hi!, I'm Josué Ferreyra 👋🏻
+
 # 💫 About Me:
 👨🏻‍💻 Frontend Developer passionate about creating web applications that are attractive, functional and accessible.<br>💼 I have worked freelance for companies in my country, creating websites for a real estate company, administration panels for companies and a platform for biblical courses for my church. You can see some of my projects at https://josueferreyra.vercel.app/.<br>🎮 In my free time, I like to play video games and watch soccer games of my favorite team.<br>📫 If you want to contact me, you can send me an email to: josueferreyra8824@gmail.com<br>😊 I will be glad to meet you and collaborate with you.<br>
 
