@@ -65,8 +65,8 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=josu-ferreyra&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="350" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=josu-ferreyra&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josu-ferreyra&locale=en&hide_title=true&layout=compact&card_width=320&theme=github_dark&hide_border=true&order=2" height="100" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=josu-ferreyra&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josu-ferreyra&locale=en&hide_title=true&layout=compact&card_width=320&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
