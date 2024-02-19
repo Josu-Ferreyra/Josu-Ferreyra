@@ -1,4 +1,4 @@
-# ¡Hola, mundo! 👋 Soy Josué Ferreyra, un apasionado desarrollador web.
+# ¡Hola, mundo! 👋
 
 ## 🚀 Sobre mí
 Me especializo en el desarrollo frontend, aunque mi formación es amplia y versátil. Mi camino en el mundo del desarrollo de software comenzó de manera autodidacta, sumergiéndome en bootcamps como fullstackopen y openbootcamp. Además, estudié ingeniería de software durante tres años, donde adquirí una base sólida en algoritmos, estructuras de datos y matemáticas. Actualmente, estoy cursando una licenciatura en software para formalizar aún más mi educación.
@@ -20,5 +20,5 @@ Aquí puedes agregar tus proyectos destacados en el futuro. Te dejo un ejemplo d
 
 ## 📫 Contacto
 - Email: josueferreyra8824@gmail.com
-- LinkedIn: [Josué Ferreyra](https://www.linkedin.com/in/josue-ferreyra/)https://www.linkedin.com/in/josue-ferreyra/
-- Portfolio: [josueferreyra.vercel.app](https://josueferreyra.vercel.app/)https://josueferreyra.vercel.app/
+- LinkedIn: [Josué Ferreyra](https://www.linkedin.com/in/josue-ferreyra/)
+- Portfolio: [Josué Ferreyra](https://josueferreyra.vercel.app/)
