@@ -2,27 +2,27 @@
 
 ###
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="left">🚀 About Me</h2>
 
 ###
 
-<p align="center">I'm a passionate web developer with a focus on frontend development. My journey in the world of software development began as a self-taught learner, diving into bootcamps like fullstackopen and openbootcamp. Additionally, I studied software engineering for three years, where I gained a solid foundation in algorithms, data structures, and mathematics. Currently, I'm pursuing a bachelor's degree in software to further formalize my education.<br><br>I consider myself proactive, dedicated, and disciplined, always seeking to learn and grow. I love tackling new challenges and constantly improving.</p>
+<p align="left">I'm a passionate web developer with a focus on frontend development. My journey in the world of software development began as a self-taught learner, diving into bootcamps like fullstackopen and openbootcamp. Additionally, I studied software engineering for three years, where I gained a solid foundation in algorithms, data structures, and mathematics. Currently, I'm pursuing a bachelor's degree in software to further formalize my education.<br><br>I consider myself proactive, dedicated, and disciplined, always seeking to learn and grow. I love tackling new challenges and constantly improving.</p>
 
 ###
 
-<h2 align="center">💼 Experience</h2>
+<h2 align="left">💼 Experience</h2>
 
 ###
 
-<p align="center">I started my career as a freelance developer in March 2023, working on various projects for local companies alongside a team of friends. Our projects include learning platforms and management systems. In January 2024, I joined Software On The Road as a Junior Software Developer, where I work with technologies like React, Typescript, Node, Express, GraphQL, SQL, MongoDB, and Sass.</p>
+<p align="left">I started my career as a freelance developer in March 2023, working on various projects for local companies alongside a team of friends. Our projects include learning platforms and management systems. In January 2024, I joined Software On The Road as a Junior Software Developer, where I work with technologies like React, Typescript, Node, Express, GraphQL, SQL, MongoDB, and Sass.</p>
 
 ###
 
-<h2 align="center">🛠️ Skills</h2>
+<h2 align="left">🛠️ Skills</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
@@ -48,11 +48,11 @@
 
 ###
 
-<h2 align="center">📫 Contact</h2>
+<h2 align="left">📫 Contact</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/josue-ferreyra/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="35" alt="linkedin logo"  />
   </a>
