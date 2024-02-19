@@ -1,24 +1,24 @@
-# ¡Hola, mundo! 👋
+# Hello, world! 👋 I'm Josué Ferreyra.
 
-## 🚀 Sobre mí
-Me especializo en el desarrollo frontend, aunque mi formación es amplia y versátil. Mi camino en el mundo del desarrollo de software comenzó de manera autodidacta, sumergiéndome en bootcamps como fullstackopen y openbootcamp. Además, estudié ingeniería de software durante tres años, donde adquirí una base sólida en algoritmos, estructuras de datos y matemáticas. Actualmente, estoy cursando una licenciatura en software para formalizar aún más mi educación.
+## 🚀 About Me
+I'm a passionate web developer with a focus on frontend development. My journey in the world of software development began as a self-taught learner, diving into bootcamps like fullstackopen and openbootcamp. Additionally, I studied software engineering for three years, where I gained a solid foundation in algorithms, data structures, and mathematics. Currently, I'm pursuing a bachelor's degree in software to further formalize my education.
 
-Soy proactivo, dedicado y disciplinado, siempre buscando aprender y crecer. Me encanta enfrentar nuevos desafíos y mejorar constantemente.
+I consider myself proactive, dedicated, and disciplined, always seeking to learn and grow. I love tackling new challenges and constantly improving.
 
-## 💼 Experiencia
-Inicié mi carrera como desarrollador freelance en marzo de 2023, trabajando en varios proyectos para empresas locales junto a un equipo de amigos. Nuestros proyectos incluyen plataformas de aprendizaje y sistemas de gestión. En enero de 2024, me uní a Software On The Road como Desarrollador de Software JR, donde trabajo con tecnologías como React, Typescript, Node, Express, GraphQL, SQL, MongoDB y Sass.
+## 💼 Experience
+I started my career as a freelance developer in March 2023, working on various projects for local companies alongside a team of friends. Our projects include learning platforms and management systems. In January 2024, I joined Software On The Road as a Junior Software Developer, where I work with technologies like React, Typescript, Node, Express, GraphQL, SQL, MongoDB, and Sass.
 
-## 🛠️ Habilidades
-Mi especialidad es el ecosistema de React. Tengo experiencia con Javascript, Typescript, Next.js, TailwindCSS, BootstrapCSS, Material UI, Node.js y Express.
+## 🛠️ Skills
+My specialty is the React ecosystem. I have experience with Javascript, Typescript, Next.js, TailwindCSS, BootstrapCSS, Material UI, Node.js, and Express.
 
-<!-- ## 🌟 Proyectos destacados
-Aquí puedes agregar tus proyectos destacados en el futuro. Te dejo un ejemplo de cómo podrías hacerlo:
+<!-- ## 🌟 Featured Projects
+Here you can add your featured projects in the future. Here's an example of how you could do it:
 
-1. Nombre del Proyecto: Breve descripción del proyecto.
-2. Nombre del Proyecto: Breve descripción del proyecto.
+1. Project Name: Brief description of the project.
+2. Project Name: Brief description of the project.
 -->
 
-## 📫 Contacto
+## 📫 Contact
 - Email: josueferreyra8824@gmail.com
 - LinkedIn: [Josué Ferreyra](https://www.linkedin.com/in/josue-ferreyra/)
-- Portfolio: [Josué Ferreyra](https://josueferreyra.vercel.app/)
+- Portfolio: [josueferreyra.vercel.app](https://josueferreyra.vercel.app/)
